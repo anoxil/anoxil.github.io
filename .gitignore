@@ -1,0 +1,8 @@
+# sass stuff
+/.sass-cache
+*.css.map
+*.scss.map
+*.sass.map
+
+# misc
+live.js
